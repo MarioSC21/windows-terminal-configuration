@@ -16,7 +16,7 @@ Puedes instalar Oh My Posh de dos maneras:
 winget install JanDeDobbeleer.OhMyPosh -s winget
 ```
 
-O a través de Microsoft Store:
+O a través de `Microsoft Store`:
 
 #### Instalación de Oh My Posh a través de Microsoft Store
 
